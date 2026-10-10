@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Direct AI Search Indexing Directives
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+Sitemap: https://sussexwastewatercompliance.com/sitemap.xml
